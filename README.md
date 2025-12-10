@@ -1,1 +1,1 @@
-# HTML-CSS-LandPage
+# HTML-CSS-LandingPage
